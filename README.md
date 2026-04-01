@@ -25,16 +25,6 @@ To synthesize vanadium pentoxide (V₂O₅) nanoparticles using the hydrothermal
 
 ---
 
-## Formula
-
-W=Nel 
-Where:
-- **N** = Normality  
-- **e** = Equivalent weight  
-- **l** = Volume (in liters)  
-
----
-
 ## Procedure
 
 1. **Preparation of Precursor Solution**  
@@ -57,12 +47,6 @@ Where:
 
 7. **Drying and Calcination**  
    Dry the sample and calcine at 500°C for 5 hours to obtain V₂O₅ nanoparticles (orange color).
-
----
-
-## Calculation
-
-(Use the formula: W = N × e × l as required)
 
 ---
 
