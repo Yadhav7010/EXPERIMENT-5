@@ -27,10 +27,7 @@ To synthesize vanadium pentoxide (V₂O₅) nanoparticles using the hydrothermal
 
 ## Formula
 
-\[
-W = N \times e \times l
-\]
-
+W=Nel 
 Where:
 - **N** = Normality  
 - **e** = Equivalent weight  
